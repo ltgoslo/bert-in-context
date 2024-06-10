@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <a href=""><b>Paper</b></a><br>
+  <a href="https://arxiv.org/abs/2406.04823"><b>Paper</b></a><br>
   <a href="https://huggingface.co/ltg/deberta-xxlarge-fixed"><b>HuggingFace model</b></a>
 </p>
 
