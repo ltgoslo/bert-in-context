@@ -24,5 +24,13 @@ _______
 
 ## Please cite the following publication (just arXiv for now)
 ```bibtex
-
+@misc{samuel2024berts,
+  title={{BERTs} are Generative In-Context Learners}, 
+  author={David Samuel},
+  year={2024},
+  eprint={2406.04823},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2406.04823}
+}
 ```
