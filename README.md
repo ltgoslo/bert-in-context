@@ -1,8 +1,8 @@
-<h2 align="center"><i><h3>More Room for Language:</i><br><<b>Investigating the Effect of Retrieval on Language Models</b>/h3></h2><br>
+<h2 align="center"><b><h3>BERTs are Generative In-Context Learners</h3></b></h2><br>
 
 
 <p align="center">
-  <b>David Samuel</b>, <b>Lucas Georges Gabriel Charpentier</b>, and <b>Sondre Wold</b>
+  <b>David Samuel</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 <br>
 
 <p align="center">
-  <a href="https://aclanthology.org/2024.naacl-short.26"><b>Paper (ACL Anthology)</b></a><br>
+  <a href="https://arxiv.org/abs/2406.04823"><b>Paper</b></a><br>
+  <a href="https://huggingface.co/ltg/deberta-xxlarge-fixed"><b>HuggingFace model</b></a>
 </p>
 
 _______
@@ -23,21 +24,13 @@ _______
 
 ## Please cite the following publication (just arXiv for now)
 ```bibtex
-@inproceedings{samuel-etal-2024-room,
-    title = "More room for language: Investigating the effect of retrieval on language models",
-    author = "Samuel, David  and
-      Charpentier, Lucas  and
-      Wold, Sondre",
-    editor = "Duh, Kevin  and
-      Gomez, Helena  and
-      Bethard, Steven",
-    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)",
-    month = jun,
-    year = "2024",
-    address = "Mexico City, Mexico",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.naacl-short.26",
-    pages = "282--305"
+@misc{samuel2024berts,
+  title={{BERTs} are Generative In-Context Learners}, 
+  author={David Samuel},
+  year={2024},
+  eprint={2406.04823},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2406.04823}
 }
-
 ```
